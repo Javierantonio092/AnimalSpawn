@@ -1,0 +1,15 @@
+C:\Users\Javier Hernández\Documents\Universidad\4° Cuatrimestre\Aplicaciones Web Orientada a Servicios\AnimalSpawn\AnimalSpawn.Infraestructure\bin\Debug\netcoreapp3.1\AnimalSpawn.Infrastructure.deps.json
+C:\Users\Javier Hernández\Documents\Universidad\4° Cuatrimestre\Aplicaciones Web Orientada a Servicios\AnimalSpawn\AnimalSpawn.Infraestructure\bin\Debug\netcoreapp3.1\AnimalSpawn.Infrastructure.dll
+C:\Users\Javier Hernández\Documents\Universidad\4° Cuatrimestre\Aplicaciones Web Orientada a Servicios\AnimalSpawn\AnimalSpawn.Infraestructure\bin\Debug\netcoreapp3.1\AnimalSpawn.Infrastructure.pdb
+C:\Users\Javier Hernández\Documents\Universidad\4° Cuatrimestre\Aplicaciones Web Orientada a Servicios\AnimalSpawn\AnimalSpawn.Infraestructure\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.dll
+C:\Users\Javier Hernández\Documents\Universidad\4° Cuatrimestre\Aplicaciones Web Orientada a Servicios\AnimalSpawn\AnimalSpawn.Infraestructure\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.pdb
+C:\Users\Javier Hernández\Documents\Universidad\4° Cuatrimestre\Aplicaciones Web Orientada a Servicios\AnimalSpawn\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Javier Hernández\Documents\Universidad\4° Cuatrimestre\Aplicaciones Web Orientada a Servicios\AnimalSpawn\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Javier Hernández\Documents\Universidad\4° Cuatrimestre\Aplicaciones Web Orientada a Servicios\AnimalSpawn\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infrastructure.AssemblyInfo.cs
+C:\Users\Javier Hernández\Documents\Universidad\4° Cuatrimestre\Aplicaciones Web Orientada a Servicios\AnimalSpawn\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infrastructure.csproj.CopyComplete
+C:\Users\Javier Hernández\Documents\Universidad\4° Cuatrimestre\Aplicaciones Web Orientada a Servicios\AnimalSpawn\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infrastructure.dll
+C:\Users\Javier Hernández\Documents\Universidad\4° Cuatrimestre\Aplicaciones Web Orientada a Servicios\AnimalSpawn\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infrastructure.pdb
+C:\Users\Javier Hernández\Documents\Universidad\4° Cuatrimestre\Aplicaciones Web Orientada a Servicios\AnimalSpawn\AnimalSpawn.Infraestructure\bin\Debug\netcoreapp3.1\AnimalSpawn.Infrastructure.runtimeconfig.json
+C:\Users\Javier Hernández\Documents\Universidad\4° Cuatrimestre\Aplicaciones Web Orientada a Servicios\AnimalSpawn\AnimalSpawn.Infraestructure\bin\Debug\netcoreapp3.1\AnimalSpawn.Infrastructure.runtimeconfig.dev.json
+C:\Users\Javier Hernández\Documents\Universidad\4° Cuatrimestre\Aplicaciones Web Orientada a Servicios\AnimalSpawn\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infrastructure.genruntimeconfig.cache
+C:\Users\Javier Hernández\Documents\Universidad\4° Cuatrimestre\Aplicaciones Web Orientada a Servicios\AnimalSpawn\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infrastructure.csproj.CoreCompileInputs.cache

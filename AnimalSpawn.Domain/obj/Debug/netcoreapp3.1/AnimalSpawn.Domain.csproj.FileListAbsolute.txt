@@ -1,0 +1,9 @@
+C:\Users\Javier Hernández\Documents\Universidad\4° Cuatrimestre\Aplicaciones Web Orientada a Servicios\AnimalSpawn\AnimalSpawn.Domain\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.deps.json
+C:\Users\Javier Hernández\Documents\Universidad\4° Cuatrimestre\Aplicaciones Web Orientada a Servicios\AnimalSpawn\AnimalSpawn.Domain\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.dll
+C:\Users\Javier Hernández\Documents\Universidad\4° Cuatrimestre\Aplicaciones Web Orientada a Servicios\AnimalSpawn\AnimalSpawn.Domain\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.pdb
+C:\Users\Javier Hernández\Documents\Universidad\4° Cuatrimestre\Aplicaciones Web Orientada a Servicios\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.csprojAssemblyReference.cache
+C:\Users\Javier Hernández\Documents\Universidad\4° Cuatrimestre\Aplicaciones Web Orientada a Servicios\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.AssemblyInfoInputs.cache
+C:\Users\Javier Hernández\Documents\Universidad\4° Cuatrimestre\Aplicaciones Web Orientada a Servicios\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.AssemblyInfo.cs
+C:\Users\Javier Hernández\Documents\Universidad\4° Cuatrimestre\Aplicaciones Web Orientada a Servicios\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.dll
+C:\Users\Javier Hernández\Documents\Universidad\4° Cuatrimestre\Aplicaciones Web Orientada a Servicios\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.pdb
+C:\Users\Javier Hernández\Documents\Universidad\4° Cuatrimestre\Aplicaciones Web Orientada a Servicios\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.csproj.CoreCompileInputs.cache
