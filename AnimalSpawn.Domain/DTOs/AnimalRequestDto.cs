@@ -20,6 +20,6 @@ namespace AnimalSpawn.Domain.DTOs
 
         public string RfidTag { get; set; }
         public DateTime DateEstablished { get; set; }
-        public int ProtectedAreadId { get; set; }
+        public int ProtectedAreaId { get; set; }
     }
 }

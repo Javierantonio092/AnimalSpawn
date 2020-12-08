@@ -44,7 +44,7 @@ namespace AnimalSpawn.Api.Controllers
 
         [HttpPost]
         public async Task<IActionResult> Post(AnimalRequestDto animalDto)
-        {
+        {            
             var animal = _mapper.Map<AnimalRequestDto,Animal>(animalDto);     
             await _service.AddAnimal(animal);
             var animalResponseDto = _mapper.Map<Animal, AnimalResponseDto>(animal);
@@ -66,6 +66,7 @@ namespace AnimalSpawn.Api.Controllers
             var animal = _mapper.Map<Animal>(animalDto);
             animal.Id = id;
             animal.UpdateAt = DateTime.Now;
+            animal.CreateAt = DateTime.Now;
             animal.UpdatedBy = 2;
 
             await _service.UpdateAnimal(animal);

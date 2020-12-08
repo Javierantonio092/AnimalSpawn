@@ -21,8 +21,11 @@ namespace AnimalSpawn.Application.Mappings
                 .AfterMap((source, destination) =>
                 {
                     destination.CreateAt = DateTime.Now;
+                    destination.UpdateAt = DateTime.Now;
+                    destination.RfidTag.UpdateAt = DateTime.Now;
+                    destination.RfidTag.CreateAt = DateTime.Now;
                     destination.CreatedBy = 3;
-                    destination.Status = true;      
+                    destination.Status = true;                     
                 });
             CreateMap<AnimalResponseDto, Animal>();          
             //Country
